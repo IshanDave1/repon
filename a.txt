@@ -1,2 +1,2 @@
-line one
+line one added one more line
 branch one makes changes to line two
